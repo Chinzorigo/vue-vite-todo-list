@@ -1,3 +1,4 @@
+// Used composition API. But couldn't connect to ExpressJS
 <script setup>
 import { ref, onMounted, computed, watch } from 'vue';
 
